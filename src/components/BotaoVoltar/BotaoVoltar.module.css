@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+.botao{
+    border:none;
+    background-color: transparent;
+    font-family: 'Quicksand', sans-serif;
+    cursor: pointer;
+
+}
+
+.botao:hover{
+    transform: scale(1.05);
+
+}

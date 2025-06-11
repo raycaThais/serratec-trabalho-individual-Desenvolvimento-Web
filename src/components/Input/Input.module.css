@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+
+.input{
+    border-radius: 20px;
+    border:none;
+    padding:10px 30px;
+    font-family: "Quicksand", sans-serif;
+    color:rgb(129, 2, 61);
+}
+
+
+.input:focus{
+    outline: none;
+    transition: transform 0.3s;
+    transform: scale(1.05);
+    box-shadow: 3px 6px 15px rgba(255, 80, 188, 0.904);
+}
